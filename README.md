@@ -124,12 +124,3 @@ mvn spring-boot:run
 
 
 ---
-
-## ✅ Future Enhancements
-
-- Online payment gateway integration
-- Email/SMS notifications on bookings
-- Booking cancellation & refund system
-- PDF invoice generation
-
----
