@@ -111,6 +111,8 @@ mvn spring-boot:run
 
 **Thymeleaf parse error → malformed HTML (duplicate DOCTYPE inside code file).**
 
+---
+
 ## 📸 Screenshots
 
 > Add screenshots of your pages here:
