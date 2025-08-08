@@ -99,17 +99,17 @@ mvn spring-boot:run
 
 ---
 ## Common Bugs that I faced during Project
-** template not found → wrong return view name / wrong folder (booking/search.html). **
+**template not found → wrong return view name / wrong folder (booking/search.html).**
 
 **Field 'id' doesn't have a default value → add @GeneratedValue strategy/sequences OK.**
 
-**typeMismatch int/double → change ratePerNight to double. **
+**typeMismatch int/double → change ratePerNight to double.**
 
-**NPE getUser() → booking create karte waqt setUser(user) zaroori. **
+**NPE getUser() → booking create karte waqt setUser(user) zaroori.**
 
-**Delete room FK error → guard ya cascade. **
+**Delete room FK error → guard ya cascade.**
 
-**Thymeleaf parse error → malformed HTML (duplicate DOCTYPE inside code file). **
+**Thymeleaf parse error → malformed HTML (duplicate DOCTYPE inside code file).**
 
 ## 📸 Screenshots
 
