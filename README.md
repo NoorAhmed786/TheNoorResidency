@@ -1,6 +1,6 @@
 # 🏨 The Noor Residency
 
-**The Noor Residency ** is a ** Hotel Management System ** built using ** Spring Boot + Thymeleaf + MySQL **.
+**The Noor Residency** is a **Hotel Management System** built using **Spring Boot + Thymeleaf + MySQL**.
 This project provides complete functionality for **room booking, an admin panel, and a user dashboard**.
 
 ---
