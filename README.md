@@ -98,7 +98,7 @@ mvn spring-boot:run
 | admin    | admin123 | ADMIN  |
 
 ---
-## Common Bugs that I faced during Project
+## 🐞 Common Bugs that I faced during Project
 **template not found → wrong return view name / wrong folder (booking/search.html).**
 
 **Field 'id' doesn't have a default value → add @GeneratedValue strategy/sequences OK.**
